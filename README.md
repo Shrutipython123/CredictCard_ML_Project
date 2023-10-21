@@ -1,1 +1,1 @@
-# CredictCard_ML_Project
+ML Projects
